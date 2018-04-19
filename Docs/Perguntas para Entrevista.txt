@@ -1,0 +1,3 @@
+#1 - Quais são as necessidades de persquisa na BD?
+#2 - Qual é o processo de submição de peças para restauro?
+#3 - Qual é o processo das intrevenções? (atribuição de peças a alunos/tecnicos e responsabilização)
