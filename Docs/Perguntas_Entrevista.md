@@ -35,4 +35,8 @@ Perguntas para serem efetuadas ao cliente na reunião de terça-feira (24/04/201
 
 ### Perguntas elaboradas pelo Nuno Rodrigues:
 
+* Na secção 6 temos os Interlocutores, estes dividem-se em "IPT" e "Cliente"
+A duvida é no campo do "IPT", saber que participa no processo, o professor, funcionário ou aluno
+* O cliente terá conta? Se sim, que informação pode aceder?
+
 ### Perguntas elaboradas pelo Rui Costa:
