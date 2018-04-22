@@ -1,6 +1,0 @@
-#1 - Quais são as necessidades de persquisa na BD?
-#2 - Qual é o processo de submição de peças para restauro?
-#3 - Qual é o processo das intrevenções? (atribuição de peças a alunos/tecnicos e responsabilização)
-#4 - Quais serão os utilizadores? (ex: professor, técnico, aluno, etc..)
-#5 - Se for para fazer uma APP qual o seu objetivo?
-#6 - No furmulário principal todos os campos são de preenchimento obrigatório?
