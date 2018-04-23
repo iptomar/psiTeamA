@@ -26,11 +26,11 @@ Perguntas para serem efetuadas ao cliente na reunião de terça-feira (24/04/201
 ### Perguntas elaboradas pelo Sandro Costa:
 
 ### Perguntas elaboradas pelo João Campos:
-* Todos os campos da ficha técnica são sempre preenchidos? Ou existem alguns campos/páginas que não sejam realmente necessárias.
-* Pode haver mais do que um utilziador a preencher uma ficha técnica? Ou a ficha fica apenas associada a um utilizador?
-* (caso possa ser mais do que um utilizador a preencher)
-  Para validar a ficha, pode ser apenas um dos utilizadores que preencheram a "submeter" a ficha final, ou têm de ir os todos os utilizadores que participaram no preenchimento validar a informação?
-* (partindo do principio que há vários tipos de utilizadores)
+* Todos os campos da ficha técnica são sempre preenchidos? Ou existem alguns campos/páginas que não sejam realmente necessárias?
+* Pode haver mais do que um utilizador a preencher uma ficha técnica? Ou a ficha fica apenas associada a um utilizador?
+* (Caso possa ser mais do que um utilizador a preencher)
+  Para validar a ficha, pode ser apenas um dos utilizadores que preencheram validar? Ou têm de ir os todos os utilizadores que participaram no preenchimento validar a informação?
+* (Partindo do principio que há vários tipos de utilizadores)
 No fim de preencher uma ficha técnica, ela fica visível e disponível para ser acessada por todos os utilizadores?
 (Se não ficar disponível para todos, quais utilizadores podem ver? Algum utilizador pode alterar informações da versão "final"?)
 
