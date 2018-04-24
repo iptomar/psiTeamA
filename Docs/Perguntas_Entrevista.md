@@ -25,8 +25,8 @@ Perguntas para serem efetuadas ao cliente na reunião de terça-feira (24/04/201
 
 ### Perguntas elaboradas pelo Sandro Costa:
 
-* Visto que vai ser necessário uma app, quem vai utilizar a app? 
 * A app vai ser utilizada em smartphones? tablets?
+* Visto que vai ser necessário uma app, quem vai utilizar a app? 
 * A fotografia será retirada com o dispositivo móvel onde se está a utilizar a app?
 * Em relação à ficha técnica, que campos são fixos? 
 
