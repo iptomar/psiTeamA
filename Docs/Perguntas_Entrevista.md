@@ -7,8 +7,6 @@ Perguntas para serem efetuadas ao cliente na reunião de terça-feira (24/04/201
 * Quais são as necessidades de pesquisa na base de dados?
 * Qual é o processo de submissão de peças para restauro?
 * Qual é o processo das intervenções? (atribuição de peças a alunos/técnicos e responsabilização)
-* Criação de contas dos alunos? São eles a criar as próprias contas ou será o professor?
-* Quais são as permissões de cada tipo de conta?
 
 ### Perguntas elaboradas pela Inês Costa:
 
@@ -22,6 +20,9 @@ Perguntas para serem efetuadas ao cliente na reunião de terça-feira (24/04/201
 * Os campos assumidos de valor fixo (ex: Formato da Fotografia), têm realmente o valor fixo analisado?
 
 ### Perguntas elaboradas pelo Tiago Matos:
+
+* Criação de contas dos alunos? São eles a criar as próprias contas ou será o professor?
+* Quais são as permissões de cada tipo de conta?
 
 ### Perguntas elaboradas pelo Sandro Costa:
 
