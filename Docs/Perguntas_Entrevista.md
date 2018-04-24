@@ -25,6 +25,11 @@ Perguntas para serem efetuadas ao cliente na reunião de terça-feira (24/04/201
 
 ### Perguntas elaboradas pelo Sandro Costa:
 
+* Visto que vai ser necessário uma app, quem vai utilizar a app? 
+* A app vai ser utilizada em smartphones? tablets?
+* A fotografia será retirada com o dispositivo móvel onde se está a utilizar a app?
+* Em relação à ficha técnica, que campos são fixos? 
+
 ### Perguntas elaboradas pelo João Campos:
 * Todos os campos da ficha técnica são sempre preenchidos? Ou existem alguns campos/páginas que não sejam realmente necessárias?
 * Pode haver mais do que um utilizador a preencher uma ficha técnica? Ou a ficha fica apenas associada a um utilizador?
