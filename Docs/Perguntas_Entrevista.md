@@ -43,6 +43,9 @@ No fim de preencher uma ficha técnica, ela fica visível e disponível para ser
 
 ### Perguntas elaboradas pelo Rodrigo Marques:
 
+* Os campos do formulário são todos de preenchimento obrigatório ou existem alguns que são comuns não serem preenchidos?
+* Em relação à fotografia colocada na ficha técnica, na aplicação pretendida é suposto continuar a aparecer só essa foto, ou a partir da foto escolhida quer ter acesso a outras fotografias associadas à peça?
+
 ### Perguntas elaboradas pelo Frederico Rodrigues:
 
 ### Perguntas elaboradas pelo Nuno Rodrigues:
