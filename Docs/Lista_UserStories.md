@@ -16,9 +16,16 @@ Original: "As a...I want to...so that I..."
 
 Tradução: "Como...(1) quero...(2) para...(3)." 
 
-(1) Ator;
-(2) Ação;
-(3) Objetivo.
+(1) Ator
+(2) Ação
+(3) Objetivo
+
+### Utilizadores (Iniciais) da Aplicação:
+
+* Alunos
+* Professor
+
+Tanto os alunos como o professor podem ser também denominados técnicos.
 
 ### User Stories - Ficha Técnica - Pág. 1 e 2:
 
