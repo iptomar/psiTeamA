@@ -17,3 +17,7 @@ ou
 Os ficheiros de texto devem ter o formato .md, de forma a poderem ser visualizados e formatados diretamente no GitHub (ex: README.md).
 
 Estes documentos podem ser formatados através de símbolos (ex: # para capítulo de maior tamanho). 
+
+## Design das interfaces
+
+Para o design das interfaces (ficheiros do tipo .epgz) está a ser utilizada a ferramenta [PENCIL](https://pencil.evolus.vn/).
