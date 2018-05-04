@@ -1,0 +1,44 @@
+// Escrever na consola   "npm install mysql"
+
+var mysql = require('mysql');
+
+
+//cria a ligação com a base de dados
+
+var con = mysql.createConnection({
+  host: "localhost",
+  user: "yourusername",
+  password: "yourpassword",
+  database: "mydb"
+});
+
+//insere na base de dados
+con.connect(function(err) {
+  if (err) throw err;
+  console.log("Connected!");
+  var sql = "INSERT INTO pergunta (id, questao) VALUES (DEFAULT, 'Exemplo de pergunta')";
+  con.query(sql, function (err, result) {
+    if (err) throw err;
+    console.log("1 record inserted");
+  });
+});
+
+//SELECT
+con.connect(function(err) {
+  if (err) throw err;
+  con.query("SELECT * FROM pergunta", function (err, result, fields) {
+    if (err) throw err;
+    console.log(result);
+  });
+});
+
+//DELETE
+con.connect(function(err) {
+  if (err) throw err;
+  var sql = "DELETE FROM pergunta WHERE id = 1";
+  con.query(sql, function (err, result) {
+    if (err) throw err;
+    console.log("Number of records deleted: " + result.affectedRows);
+  });
+});
+//grava-se o ficheiro com ".js" (exemplo.js) e para correr é na consola :node nome_do_ficheiro.js
