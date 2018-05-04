@@ -16,8 +16,15 @@
 
 ## Tarefas:
 
-### Semana 26/04/2018 a 03/05/2018:
-
 * Sandro Costa, João Campos e Simão Samouco - Exemplos de tecnologias;
 * João Pinto, Inês Costa - Design da interface;
 * Restantes - User Stories e decidir o que vai para a primeira sprint.
+
+## Tecnologias:
+
+* Base de dados - MySQL
+* Frontend - Vue.js
+* Backend - Node.js / Express
+* BPM - Node.js / BPMN.io
+* App Mobile - React.js
+* Gestão documental - ?
