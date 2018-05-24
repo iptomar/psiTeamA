@@ -1,0 +1,66 @@
+designacao_objecto: (Turma C)
+- PK: ID_Objecto INT(10)
+- Designacao VARCHAR(100)
+- ProcessoLCRM VARCHAR(100)
+- ProcessoCEARC VARCHAR(100)
+- Coordenacao VARCHAR(100)
+- Data_Abertura_Processo DATE
+- Data_Entrada_LCRM DATE
+- Data_Entrada_CEARC DATE
+- ID_Sub_Categoria INT(10)
+- Tipologia VARCHAR(50)
+- Localizacao VARCHAR(50)
+- Dimensao VARCHAR(50)
+- ID_Dono_Obra INT(10)
+- ID_Proprietario INT(10)
+- ID_Mecenas INT(10)
+- FK: ID_Pedido INT
+
+pedidos_clientes:
+- PK: ID_Pedido INT
+- Titulo VARCHAR
+- Descricao VARCHAR
+- Fotografia VARCHAR
+- Data_Realizacao_Pedido DATETIME
+- FK: ID_Cliente INT
+
+clientes:
+- PK: ID_Cliente INT
+- Nome VARCHAR
+- Morada VARCHAR
+- NIF VARCHAR
+- Email VARCHAR
+- Contacto_Telefonico VARCHAR
+
+analises_preliminares:
+- PK: ID_Analise INT
+- Descricao_Analise VARCHAR
+- Local_Realizacao_Analise VARCHAR
+- Data_Realizacao_Analise DATETIME
+- Inicio_Analise TIME
+- Fim_Analise TIME
+- Distancia_Deslocacao INT --> COLOCAÇÃO EVENTUALMENTE EM KILOMETROS!
+(- Outras_Despesas VARCHAR) --> É NECESSÁRIO?
+- FK: ID_Objecto INT
+
+eventos:
+- PK: ID_Evento INT
+- Tipo VARCHAR
+- Descricao VARCHAR
+- Data_Evento DATETIME
+- FK: ID_Pedido INT
+
+propostas:
+- PK: ID_Proposta INT
+- Descricao VARCHAR
+- Data_Elaboracao_Proposta DATETIME
+- Data_Envio_Proposta DATETIME
+- Aceitacao_Proposta VARCHAR --> Sim/Não ==> BOOLEAN NÃO EXISTE EM MYSQL
+- Justificacao_Recusa VARCHAR
+- FK: ID_Pedido INT
+- FK: ID_Coordenador INT
+
+coordenador_equipa: (Turma B)
+- PK: ID_Coordenador INT
+- ...
+
