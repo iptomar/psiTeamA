@@ -39,8 +39,8 @@ analises_preliminares:
 - Data_Realizacao_Analise DATETIME
 - Inicio_Analise TIME
 - Fim_Analise TIME
-- Distancia_Deslocacao INT --> COLOCAÇÃO EVENTUALMENTE EM KILOMETROS!
-(- Outras_Despesas VARCHAR) --> É NECESSÁRIO?
+- Distancia_Deslocacao INT --> KM!
+- Outras_Despesas VARCHAR
 - FK: ID_Objecto INT
 
 eventos:
@@ -55,7 +55,7 @@ propostas:
 - Descricao VARCHAR
 - Data_Elaboracao_Proposta DATETIME
 - Data_Envio_Proposta DATETIME
-- Aceitacao_Proposta VARCHAR --> Sim/Não ==> BOOLEAN NÃO EXISTE EM MYSQL
+- Aceitacao_Proposta VARCHAR --> Sim/Não (BOOLEAN NÃO EXISTE EM MYSQL)
 - Justificacao_Recusa VARCHAR
 - FK: ID_Pedido INT
 - FK: ID_Coordenador INT

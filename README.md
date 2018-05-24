@@ -14,12 +14,6 @@
 * N.º 19525 - Rodrigo Marques
 * N.º 19786 - Rui Costa
 
-## Tarefas:
-
-* Sandro Costa, João Campos e Simão Samouco - Exemplos de tecnologias;
-* João Pinto, Inês Costa - Design da interface;
-* Restantes - User Stories e decidir o que vai para a primeira sprint.
-
 ## Tecnologias:
 
 * Base de dados - MySQL
